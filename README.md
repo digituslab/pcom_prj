@@ -70,10 +70,11 @@ python3 main.py
 
 |ファイル    |内容|
 |--|--|
-|./pscom/\_\_init\_\_.py |モジュールの初期化|
-|./pscom/pscom_module.py |pscomクラス本体|
-|./test/basic_test.py  |pytestのテストメソッド|
-|./main.py |サンプルプログラム|
-
+|./main.py| サンプルプログラム|
+|./README.md| 説明ファイル（このファイル）|
+|./logger/logger_module.py| loggerクラス本体|
+|./logger/\_\_init\_\_.py| モジュールの初期化|
+|./pcom\pcom_module.py| pcomクラス本体|
+|./pcom/\_\_init\_\_.py| モジュールの初期化|
 
 正直、pythonのスレッドが遅い？のか、あんまり動作は速くないです。
