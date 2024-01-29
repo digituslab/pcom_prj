@@ -78,3 +78,4 @@ python3 main.py
 |./pcom/\_\_init\_\_.py| モジュールの初期化|
 
 正直、pythonのスレッドが遅い？のか、あんまり動作は速くないです。
+experiment1 ブランチを追加 (24.1.29)
